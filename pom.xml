@@ -97,13 +97,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>admin</id>
 	      <name>admin</name>
 	      <url>http://65.1.132.76:8081/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>admin</id>
 	      <name>admin</name>	    
 	      <url>http://65.1.132.76:8081/repository/wallmart-snapshot/</url>	    
 	    </snapshotRepository>
