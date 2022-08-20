@@ -106,7 +106,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://15.206.80.91:8081/repository/maven-snapshot/</url>	    
+	      <url>http://15.206.80.91:8081/repository/maven-snapshots/</url>	    
 	    </snapshotRepository>
 	    
 	</distributionManagement>
