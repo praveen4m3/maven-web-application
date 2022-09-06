@@ -99,14 +99,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://65.2.128.150:8081/repository/Java-app/</url>
+	      <url>http://65.2.128.150:8081/repository/java-releases/</url>
 	      <layout>default</layout>	    
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://65.2.128.150:8081/repository/java-app123/</url>	    
+	      <url>http://65.2.128.150:8081/repository/java-snapshots/</url>	    
 	    </snapshotRepository>
 	    
 	</distributionManagement>
