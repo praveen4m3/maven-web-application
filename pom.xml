@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.76.95:9000/</sonar.host.url>
+		<sonar.host.url>http://15.207.84.253:9000/</sonar.host.url>
                 <sonar.login>dbe24d48be3b72c09623a216cb546f959543b55e</sonar.login>
 		
              
@@ -97,16 +97,16 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>maven-releases</id>
+	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://13.126.34.170:8081/repository/maven-releases/</url>
+	      <url>http://43.205.143.96:8081/repository/java-releases/</url>
 	      <layout>default</layout>	    
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>maven-snapshots</id>
+	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://13.126.34.170:8081/repository/maven-snapshots</url>	    
+	      <url>http://43.205.143.96:8081/repository/java-snapshots/</url>	    
 	    </snapshotRepository>
 	    
 	</distributionManagement>
