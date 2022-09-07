@@ -99,14 +99,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://43.205.143.96:8081/repository/java-releases/</url>
+	      <url>http://43.205.215.56:8081/repository/java-releases/</url>
 	      <layout>default</layout>	    
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://43.205.143.96:8081/repository/java-snapshots/</url>	    
+	      <url>http://43.205.215.56:8081/repository/java-snapshots/</url>	    
 	    </snapshotRepository>
 	    
 	</distributionManagement>
